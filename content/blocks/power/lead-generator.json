@@ -1,0 +1,29 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Lead generator",
+  "description": "uses the high dencity lead to generate power",
+  "size": 2,
+  "health": 120,
+  "hasPower": true,
+  "hasItems": true,
+  "acceptsItems": true,
+  "itemDuration": 1500.0,
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "lead",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  "powerProduction": 4.1668,
+  "requirements": [
+    "titanium/50",
+    "lead/40",
+    "copper/45"
+  ],
+  "category": "power",
+  "research": "better-node"
+}
