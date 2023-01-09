@@ -3,7 +3,7 @@
   "name": "Pew Pew",
   "description": "Pew! :)",
   "health": 350,
-  "range": 470,
+  "range": 400,
   "size": 3,
   "targetAir": true,
   "targetGround": true,
@@ -84,7 +84,7 @@
             "ammoMultiplier": 3,
             "shootEffect": "shootSmall",
             "width": 10,
-            "damage": 200,
+            "damage": 300,
             "height": 11,
             "hitEffect": "flakExplosion"
         },
@@ -97,7 +97,7 @@
             "ammoMultiplier": 3,
             "shootEffect": "shootSmall",
             "width": 11,
-            "damage": 200,
+            "damage": 400,
             "height": 12,
             "hitEffect": "flakExplosion"
         },
