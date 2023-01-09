@@ -3,7 +3,7 @@
   "name": "Pew Pew",
   "description": "Pew! :)",
   "health": 350,
-  "range": 770,
+  "range": 470,
   "size": 3,
   "targetAir": true,
   "targetGround": true,
@@ -27,7 +27,7 @@
             "reloadMultiplier": 1.2,
             "shootEffect": "shootSmall",
             "width": 6,
-            "damage": 100,
+            "damage": 200,
             "height": 7,
             "fragBullets": 3,
             "fragBullet": {
@@ -49,7 +49,7 @@
             "reloadMultiplier": 1,
             "shootEffect": "shootSmall",
             "width": 7,
-            "damage": 100,
+            "damage": 200,
             "height": 8,
             "hitEffect": "flakExplosion"
         },
@@ -62,7 +62,7 @@
             "ammoMultiplier": 2,
             "shootEffect": "shootSmall",
             "width": 8,
-            "damage": 100,
+            "damage": 200,
             "height": 9,
             "fragBullets": 4,
             "fragBullet": {
@@ -84,7 +84,7 @@
             "ammoMultiplier": 3,
             "shootEffect": "shootSmall",
             "width": 10,
-            "damage": 100,
+            "damage": 200,
             "height": 11,
             "hitEffect": "flakExplosion"
         },
@@ -97,7 +97,7 @@
             "ammoMultiplier": 3,
             "shootEffect": "shootSmall",
             "width": 11,
-            "damage": 100,
+            "damage": 200,
             "height": 12,
             "hitEffect": "flakExplosion"
         },
@@ -110,7 +110,7 @@
             "reloadMultiplier": 1.4,
             "shootEffect": "shootSmall",
             "width": 8,
-            "damage": 100,
+            "damage": 500,
             "height": 10,
             "hitEffect": "flakExplosion"
         }
