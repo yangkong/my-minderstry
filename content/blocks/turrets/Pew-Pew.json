@@ -3,7 +3,7 @@
   "name": "Pew Pew",
   "description": "Pew! :)",
   "health": 350,
-  "range": 400,
+  "range": 370,
   "size": 3,
   "targetAir": true,
   "targetGround": true,
@@ -67,7 +67,7 @@
             "fragBullets": 4,
             "fragBullet": {
                 "width": 7,
-                "damage": 6,
+                "damage": 30,
                 "height": 9,
                 "shrinkY": 2,
                 "lifetime": 30,
@@ -87,6 +87,16 @@
             "damage": 300,
             "height": 11,
             "hitEffect": "flakExplosion"
+            "fragBullets": 5,
+            "fragBullet": {
+                "width": 7,
+                "damage": 50,
+                "height": 9,
+                "shrinkY": 2,
+                "lifetime": 30,
+                "backColor": "4410EA",
+                "frontColor": "593AB8"
+            }
         },
 
         "thorium": {
