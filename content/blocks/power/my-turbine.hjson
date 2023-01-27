@@ -1,12 +1,15 @@
 type: ThermalGenerator
+name: my generator
+description: wow generate power
+attribute: steam
 health: 1400
 size: 3
 hasPower: true
-hasItems: true
-powerProduction: 1.7
+hasLiquids : true
+powerProduction: 50
 outputLiquids: [
-  water/0.08
-  ]
+  water/1
+]
 category: power
 research: beam-node
 requirements: [
