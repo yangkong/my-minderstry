@@ -17,7 +17,7 @@ ammoTypes:{
     }
 }
 category: turret
-research: rader
+research: radar
 requirements: [
  beryllium/10
 ]
