@@ -3,11 +3,11 @@ name: "Crossbow"
 description: ""
 health: 2750
 size: 3
-reload: 60
-range: 360
+reload: 20
+range: 500
 ammoTypes:{
     beryllium:{
-        speed: 5
+        speed: 10
         lifetime: 48
         damage: 550
         knockback: 36
