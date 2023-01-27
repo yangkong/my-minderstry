@@ -1,0 +1,23 @@
+type: itemTurret
+name: "Crossbow"
+description: ""
+health: 2750
+size: 3
+reload: 60
+range: 360
+ammoTypes:{
+    beryllium:{
+        speed: 5
+        lifetime: 48
+        damage: 550
+        knockback: 36
+        width: 6
+        height: 14
+        sprite: hfi-neobul
+    }
+}
+category: turret
+research: rader
+requirements: [
+ beryllium/10
+]
