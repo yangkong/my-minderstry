@@ -1,0 +1,14 @@
+type: ThermalGenerator
+health: 1400
+size: 3
+hasPower: true
+hasItems: true
+powerProduction: 1.7
+outputLiquids: [
+  water/0.08
+  ]
+category: power
+research: beam-node
+requirements: [
+ beryllium/10
+]
